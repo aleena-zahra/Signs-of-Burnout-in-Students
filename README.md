@@ -15,7 +15,7 @@ The **MBI** is a reliable psychological instrument for quantifying these symptom
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
 <br>
 
-## 📊 Analysis <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="100" height="100"/>
+## 📊 Analysis <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="100" height="100"/>
     
 - Load and visualize collected data
 - Analyze distributions of burnout scores
