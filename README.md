@@ -3,6 +3,31 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 This project explores student burnout using responses from the Maslach Burnout Inventory Student Survey (MBI-SS). We perform exploratory data analysis to visualize and understand patterns in student burnout levels, including gender-based differences and correlations among burnout symptoms.
 
+## Project Significance
+
+- **Student Well-Being:** Helps identify academic, personal, and environmental contributors to student burnout.
+- **Informs Interventions:** Guides educators and counselors in developing targeted support systems.
+- **Evidence-Based:** Relies on validated survey instruments and empirical analysis to draw actionable conclusions.
+
+## Features
+
+- **Data Exploration:** Cleans and preprocesses MBI survey responses.
+- **Statistical Analysis:** Evaluates the correlation between burnout indicators and various factors (e.g., study habits, workload, social support).
+- **Visualization:** Presents findings through clear charts and graphs, making data easy to interpret.
+
+## Usage
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/aleena-zahra/Signs-of-Burnout-in-Students.git
+    ```
+2. **Navigate and open the Jupyter Notebooks in your preferred environment (e.g., Jupyter Lab, Google Colab).**
+
+3. **Install Dependencies:** Make sure you have Python, pandas, numpy, matplotlib, seaborn, and other required packages.
+
+4. **Run each cell to reproduce the analysis and visualizations.**
+
+
 ## 🔍 Key Concepts
 
 **Burnout in students** includes:
@@ -12,10 +37,8 @@ This project explores student burnout using responses from the Maslach Burnout I
 
 The **MBI** is a reliable psychological instrument for quantifying these symptoms. Scores are aggregated to compute a **Total Burnout Score**.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
-<br>
 
-## 📊 Analysis <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="100" height="100"/>
+## 📊 Analysis 
     
 - Load and visualize collected data
 - Analyze distributions of burnout scores
@@ -23,17 +46,16 @@ The **MBI** is a reliable psychological instrument for quantifying these symptom
 - Correlate individual components of burnout
 - Discuss implications and next steps
 
-## 📁 Files <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
+## 📁 Files 
 - `psyproject.ipynb`: Main Jupyter Notebook
 - `Burnout Assessment Questionnaire for Univeristy Students(Responses) - Form.csv`: Input data file 
 
-## 📈 Future Extensions <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
+## 📈 Future Extensions
 We hope to extend our project to include:
 - Predict burnout using machine learning
 - Clustering for risk profiling
-- Longitudinal burnout tracking (if data available)
+- Longitudinal burnout tracking 
 
 ## 🤝 Contributors
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 
 - @aleena-zahra and @muaz-abdullahh we did this project as a initiative for our psychology class. The data was gotten from FAST isb students who consented to partake in the study
